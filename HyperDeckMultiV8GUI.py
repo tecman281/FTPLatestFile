@@ -1,3 +1,5 @@
+#this is a script to copy files from a hyperdecks
+
 import os
 import concurrent.futures
 import hashlib
