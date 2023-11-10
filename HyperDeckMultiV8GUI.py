@@ -9,7 +9,7 @@ import tkinter as tk
 from tkinter import ttk
 from tkinter import filedialog
 from ftplib import FTP
-import time
+
 
 # Define the FTP login credentials
 ftp_user = 'anonymous'
